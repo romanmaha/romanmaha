@@ -1,5 +1,9 @@
 ![Header](https://github.com/romanmaha/romanmaha/blob/main/assets/header.png)
 
+## I want to become a Junior FrontEnd developer and to grow up to a team lead in 3 years.
+
+Languages and Tools
+
 <!--
 **romanmaha/romanmaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
