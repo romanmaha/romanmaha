@@ -1,4 +1,4 @@
-[![Header](https://github.com/romanmaha/romanmaha/blob/main/assets/header.png)]
+![Header](https://github.com/romanmaha/romanmaha/blob/main/assets/header.png)
 
 <!--
 **romanmaha/romanmaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
