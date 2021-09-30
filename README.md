@@ -14,7 +14,8 @@
 ![REACT](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=#5ed3f3#)
 ![REACT](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=f7900e)
 ![REACT](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=e84e31)
-![REACT](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=4daced)
+![REACT](https://img.shields.io/badge/-VSCODE-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=4daced)
+![REACT](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=FIGMA&logoColor=f76e5f)
 
 ## Follow me
 
