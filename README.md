@@ -1,6 +1,6 @@
 ![Header](https://github.com/romanmaha/romanmaha/blob/main/assets/header.png)
 
-# I want to become a Junior FrontEnd developer and to grow up to a team lead in 3 years.
+## I want to become a Junior FrontEnd developer and to grow up to a team lead in 3 years.
 
 ### Languages and Tools
 
@@ -25,4 +25,8 @@
 
 ## Hobbies
 
-![Travelling](https://img.shields.io/badge/-Travelling-000000?style=for-the-badge&logo=travel&logoColor=f76e5f)
+![REACT](https://img.shields.io/badge/-✈Travelling-000000?style=for-the-badge&logo=:soccer:&logoColor=f76e5f)
+![REACT](https://img.shields.io/badge/-⚽Football-000000?style=for-the-badge&logo=:soccer:&logoColor=f76e5f)
+![REACT](https://img.shields.io/badge/-🎯Marketing-000000?style=for-the-badge&logo=:soccer:&logoColor=f76e5f)
+![REACT](https://img.shields.io/badge/-📕Reading-000000?style=for-the-badge&logo=:soccer:&logoColor=f76e5f)
+![REACT](https://img.shields.io/badge/-🏋Crossfit-000000?style=for-the-badge&logo=:soccer:&logoColor=f76e5f)
