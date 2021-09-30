@@ -1,6 +1,6 @@
 ![Header](https://github.com/romanmaha/romanmaha/blob/main/assets/header.png)
 
-## I want to become a Junior FrontEnd developer and to grow up to a team lead in 3 years.
+# I want to become a Junior FrontEnd developer and to grow up to a team lead in 3 years.
 
 ## Languages and Tools
 
@@ -14,6 +14,9 @@
 ![REACT](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=#5ed3f3#)
 ![REACT](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=f7900e)
 ![REACT](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=e84e31)
+![REACT](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=4daced)
+
+## Follow me
 
 <!--
 **romanmaha/romanmaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
