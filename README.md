@@ -1,6 +1,6 @@
-![Header](https://github.com/romanmaha/romanmaha/blob/main/assets/header.png)
+![Header](https://github.com/romanmaha/romanmaha/blob/main/assets/React%20js%20developer.png)
 
-## I want to become a Junior FrontEnd developer and to grow up to a team lead in 3 years.
+## Hi👋
 
 ### Languages and Tools
 
